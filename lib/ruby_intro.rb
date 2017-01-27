@@ -3,15 +3,15 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+  arr.inject(0, :+)
 end
 
 def max_2_sum arr
-  # YOUR CODE HERE
+  sum(arr.sort.last(2))
 end
 
 def sum_to_n? arr, n
-  # YOUR CODE HERE
+  !!arr.uniq.combination(2).detect { |a, b| a + b == n }
 end
 
 # Part 2
