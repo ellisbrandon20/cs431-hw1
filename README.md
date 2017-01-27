@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Ruby Intro
 =============
 
@@ -110,10 +110,3 @@ you write the code, watch the test fail, fill in the code and save the code file
 then watch the test pass!
 
 * Try pairing using the [one-undermanship pair programming style](http://www.agileventures.org/remote-pair-programming/pair-programming-protocols)
-
-
-
-=======
-# cs431-hw1
-intro to ruby
->>>>>>> 01dee4f2d96532c1e6ba199d00031834aff63cd3
